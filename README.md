@@ -19,6 +19,6 @@
 4. 集成通话功能时，集成本SDK的APP的系统需要具备推送机制，APP需要具备呼叫入口交互能力，接收呼叫推送后调起本SDK的被叫接口。
 
 # 快速开始
-请参考yzmeeting-demo-ios的README,进行sdk的集成 https://github.com/yunzhoucomm/yzmeeting-demo-ios/blob/main/README.md
+请参考yzmeeting-example-ios的README,进行sdk的集成 https://github.com/yunzhoucomm/yzmeeting-example-ios/blob/main/README.md
 
 
