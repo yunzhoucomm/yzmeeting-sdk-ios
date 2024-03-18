@@ -23,7 +23,6 @@ target 'yunzhoumeeting' do
   pod 'RNSVG', :path => './node_modules/react-native-svg'
   pod 'RNScreens', :path => './node_modules/react-native-screens'
   pod 'react-native-receive-sharing-intent', :path => './node_modules/react-native-receive-sharing-intent'
-  pod 'livekit-react-native-webrtc', :path => './node_modules/@livekit/react-native-webrtc'
   pod 'react-native-pager-view', :path => './node_modules/react-native-pager-view'
   pod 'react-native-safe-area-context', :path => './node_modules/react-native-safe-area-context'
   pod 'react-native-keep-awake', :path => './node_modules/@sayem314/react-native-keep-awake'
@@ -33,6 +32,7 @@ target 'yunzhoumeeting' do
   pod 'yunzhou-react-native', :path => './node_modules/@yunzhoukit/yunzhou-react-native'
   pod 'yunzhoukit-react-native-utils', :path => './node_modules/@yunzhoukit/react-native-utils'
   pod 'yunzhou-react-native-orientation-locker', :path => './node_modules/@yunzhoukit/react-native-orientation-locker'
+  pod 'yunzhou-react-native-webrtc', :path => './node_modules/@yunzhoukit/react-native-webrtc'
 
 
 

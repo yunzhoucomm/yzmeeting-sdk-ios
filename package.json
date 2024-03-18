@@ -1,6 +1,6 @@
 {
-  "name": "minmeeting",
-  "description": "minmeeting app",
+  "name": "yzmeeting",
+  "description": "yzmeeting app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,7 @@
     "android:proxy": "react-native run-android --variant=proxy --main-activity ReactActivity"
   },
   "dependencies": {
-    "@livekit/react-native-webrtc": "104.0.0",
+    "@yunzhoukit/react-native-webrtc": "104.0.0",
     "@react-native-async-storage/async-storage": "1.17.7",
     "@react-native-community/clipboard": "1.4.0",
     "@react-navigation/core": "6.3.0",
@@ -22,7 +22,7 @@
     "@yunzhoukit/react-native-orientation-locker": "1.5.2",
     "@yunzhoukit/react-native-utils": "0.0.6",
     "@yunzhoukit/rn-foreground-service": "2.1.5",
-    "@yunzhoukit/yunzhou-react-native": "0.5.3",
+    "@yunzhoukit/yunzhou-react-native": "0.5.5",
     "crypto-js": "4.1.1",
     "native-base": "3.4.13",
     "react": "17.0.2",
